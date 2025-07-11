@@ -1,6 +1,6 @@
 # Analisis Sentimen Aplikasi Wondr by BNI
 
-Proyek ini bertujuan untuk melakukan analisis sentimen terhadap ulasan pengguna aplikasi Wondr by BNI menggunakan teknik machine learning.
+Proyek ini bertujuan untuk melakukan analisis sentimen terhadap ulasan pengguna aplikasi Wondr by BNI menggunakan Natural Language Processing, Lexicon-based Labeling, dan Teknik TF-IDF.
 
 ## Struktur Folder
 
